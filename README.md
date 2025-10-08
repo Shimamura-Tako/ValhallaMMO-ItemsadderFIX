@@ -1,7 +1,7 @@
 # ValhallaMMO-ItemsadderFIX
 Make your ValhallaMMO resource pack no longer conflict with ItemsAdder.
 
-[中文文档](readme_zhcn.md)
+[中文文档](README_zhcn.md)
 
 ## What is this?
 This magical extension allows your ValhallaMMO resource pack to no longer conflict with your ItemsAdder item textures, and also works with other resource packs that use IA (such as the Slimefun resource pack).
