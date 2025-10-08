@@ -1,0 +1,120 @@
+info:
+  namespace: valhallafix
+items:
+  aegis_stroganoff:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998271
+      textures:
+      - item/foods/aegis_stroganoff
+  apple_pie:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998272
+      textures:
+      - item/foods/apple_pie
+  battle_burrito:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998273
+      textures:
+      - item/foods/battle_burrito
+  cooked_lionfish:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998274
+      textures:
+      - item/foods/cooked_lionfish
+  glazed_ribs:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998275
+      textures:
+      - item/foods/glazed_ribs
+  lembas_bread:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998276
+      textures:
+      - item/foods/lembas_bread
+  luxurious_stew:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998277
+      textures:
+      - item/foods/luxurious_stew
+  poached_lobster:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998278
+      textures:
+      - item/foods/poached_lobster
+  salmon_en_croute:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998279
+      textures:
+      - item/foods/salmon_en_croute
+  stuffed_hen:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998280
+      textures:
+      - item/foods/stuffed_hen
+  tender_steak:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998281
+      textures:
+      - item/foods/tender_steak
+  titanic_goulash:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998282
+      textures:
+      - item/foods/titanic_goulash
+  wagyu_steak:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: COOKIE
+      generate: true
+      model_id: 1998283
+      textures:
+      - item/foods/wagyu_steak

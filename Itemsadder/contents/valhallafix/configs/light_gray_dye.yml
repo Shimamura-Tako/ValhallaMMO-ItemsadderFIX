@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  alchemical_powder:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIGHT_GRAY_DYE
+      generate: true
+      model_id: 8892300
+      textures:
+      - item/materials/alchemical_powder
+  polishing_stone:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIGHT_GRAY_DYE
+      generate: true
+      model_id: 8892301
+      textures:
+      - item/materials/polishing_stone

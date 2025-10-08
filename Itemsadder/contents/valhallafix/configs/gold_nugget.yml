@@ -1,0 +1,417 @@
+info:
+  namespace: valhallafix
+items:
+  rough_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7780900
+      textures:
+      - item/trinkets/rough_gold_ring
+  rough_gold_necklace_amulet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7780901
+      textures:
+      - item/trinkets/rough_gold_necklace_amulet
+  rough_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7780902
+      textures:
+      - item/trinkets/rough_gold_circlet
+  rough_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7780903
+      textures:
+      - item/trinkets/rough_gold_bracer
+  gold_necklace_amulet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7780910
+      textures:
+      - item/trinkets/gold_necklace_amulet
+  gold_necklace_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781098
+      textures:
+      - item/trinkets/gold_necklace_2
+  gold_ring_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781099
+      textures:
+      - item/trinkets/gold_ring_2
+  gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781100
+      textures:
+      - item/trinkets/gold_ring
+  ruby_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781101
+      textures:
+      - item/trinkets/ruby_gold_ring
+  emerald_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781102
+      textures:
+      - item/trinkets/emerald_gold_ring
+  opal_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781103
+      textures:
+      - item/trinkets/opal_gold_ring
+  sapphire_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781104
+      textures:
+      - item/trinkets/sapphire_gold_ring
+  topaz_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781105
+      textures:
+      - item/trinkets/topaz_gold_ring
+  peridot_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781106
+      textures:
+      - item/trinkets/peridot_gold_ring
+  diamond_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781107
+      textures:
+      - item/trinkets/diamond_gold_ring
+  amethyst_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781108
+      textures:
+      - item/trinkets/amethyst_gold_ring
+  gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781200
+      textures:
+      - item/trinkets/gold_necklace
+  ruby_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781201
+      textures:
+      - item/trinkets/ruby_gold_necklace
+  emerald_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781202
+      textures:
+      - item/trinkets/emerald_gold_necklace
+  opal_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781203
+      textures:
+      - item/trinkets/opal_gold_necklace
+  sapphire_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781204
+      textures:
+      - item/trinkets/sapphire_gold_necklace
+  topaz_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781205
+      textures:
+      - item/trinkets/topaz_gold_necklace
+  peridot_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781206
+      textures:
+      - item/trinkets/peridot_gold_necklace
+  diamond_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781207
+      textures:
+      - item/trinkets/diamond_gold_necklace
+  amethyst_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781208
+      textures:
+      - item/trinkets/amethyst_gold_necklace
+  gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781300
+      textures:
+      - item/trinkets/gold_bracer
+  ruby_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781301
+      textures:
+      - item/trinkets/ruby_gold_bracer
+  emerald_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781302
+      textures:
+      - item/trinkets/emerald_gold_bracer
+  opal_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781303
+      textures:
+      - item/trinkets/opal_gold_bracer
+  sapphire_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781304
+      textures:
+      - item/trinkets/sapphire_gold_bracer
+  topaz_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781305
+      textures:
+      - item/trinkets/topaz_gold_bracer
+  peridot_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781306
+      textures:
+      - item/trinkets/peridot_gold_bracer
+  diamond_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781307
+      textures:
+      - item/trinkets/diamond_gold_bracer
+  amethyst_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781308
+      textures:
+      - item/trinkets/amethyst_gold_bracer
+  gold_armring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781320
+      textures:
+      - item/trinkets/gold_armring
+  silver_armring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781330
+      textures:
+      - item/trinkets/silver_armring
+  gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781400
+      textures:
+      - item/trinkets/gold_circlet
+  ruby_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781401
+      textures:
+      - item/trinkets/ruby_gold_circlet
+  emerald_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781402
+      textures:
+      - item/trinkets/emerald_gold_circlet
+  opal_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781403
+      textures:
+      - item/trinkets/opal_gold_circlet
+  sapphire_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781404
+      textures:
+      - item/trinkets/sapphire_gold_circlet
+  topaz_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781405
+      textures:
+      - item/trinkets/topaz_gold_circlet
+  peridot_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781406
+      textures:
+      - item/trinkets/peridot_gold_circlet
+  diamond_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781407
+      textures:
+      - item/trinkets/diamond_gold_circlet
+  amethyst_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7781408
+      textures:
+      - item/trinkets/amethyst_gold_circlet
+  gold_strip:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_NUGGET
+      generate: true
+      model_id: 7782110
+      textures:
+      - item/materials/gold_strip

@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  melted_wax:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: HONEYCOMB
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/melted_wax

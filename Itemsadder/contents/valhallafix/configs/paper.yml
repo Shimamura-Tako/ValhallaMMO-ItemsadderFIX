@@ -1,0 +1,57 @@
+info:
+  namespace: valhallafix
+items:
+  button_toggle_unlocked_for_everyone:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 1829130
+      textures:
+      - item/gui/button_toggle_unlocked_for_everyone
+  button_set_tool_requirement:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 1829131
+      textures:
+      - item/gui/button_set_tool_requirement
+  button_toggle_exact_meta:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 1829132
+      textures:
+      - item/gui/button_toggle_exact_meta
+  button_set_tool_requirement_offset:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 1829133
+      textures:
+      - item/gui/button_set_tool_requirement_offset
+  polishing_compound:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 6788200
+      textures:
+      - item/materials/polishing_compound
+  attuned_scroll:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: PAPER
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/attuned_scroll

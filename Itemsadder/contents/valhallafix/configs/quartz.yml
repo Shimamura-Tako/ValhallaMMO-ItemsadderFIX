@@ -1,0 +1,102 @@
+info:
+  namespace: valhallafix
+items:
+  ruby:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712390
+      textures:
+      - item/materials/ruby
+  raw_ruby:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712391
+      textures:
+      - item/materials/raw_ruby
+  opal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712392
+      textures:
+      - item/materials/opal
+  raw_opal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712393
+      textures:
+      - item/materials/raw_opal
+  sapphire:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712394
+      textures:
+      - item/materials/sapphire
+  raw_sapphire:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712395
+      textures:
+      - item/materials/raw_sapphire
+  topaz:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712396
+      textures:
+      - item/materials/topaz
+  raw_topaz:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712397
+      textures:
+      - item/materials/raw_topaz
+  peridot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712398
+      textures:
+      - item/materials/peridot
+  raw_peridot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 8712399
+      textures:
+      - item/materials/raw_peridot
+  experience_gem:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: QUARTZ
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/experience_gem

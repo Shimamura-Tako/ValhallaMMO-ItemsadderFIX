@@ -1,0 +1,57 @@
+info:
+  namespace: valhallafix
+items:
+  jewelled_apple:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998270
+      textures:
+      - item/foods/jewelled_apple
+  caviar:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998271
+      textures:
+      - item/foods/caviar
+  churro:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998272
+      textures:
+      - item/foods/churro
+  golden_apple_pie:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998273
+      textures:
+      - item/foods/golden_apple_pie
+  regeneration_mushroom_stew:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998274
+      textures:
+      - item/foods/regeneration_mushroom_stew
+  uni_sushi:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_APPLE
+      generate: true
+      model_id: 1998275
+      textures:
+      - item/foods/uni_sushi

@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  skillicon_power:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARMOR_STAND
+      generate: true
+      model_id: 3510001
+      textures:
+      - item/gui/skillicon_power

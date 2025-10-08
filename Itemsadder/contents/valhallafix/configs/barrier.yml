@@ -1,0 +1,30 @@
+info:
+  namespace: valhallafix
+items:
+  button_blockvalidation:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BARRIER
+      generate: true
+      model_id: 1829130
+      textures:
+      - item/gui/button_blockvalidation
+  button_delete:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BARRIER
+      generate: true
+      model_id: 1829131
+      textures:
+      - item/gui/button_delete
+  button_delete_confirm:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BARRIER
+      generate: true
+      model_id: 1829132
+      textures:
+      - item/gui/button_delete_confirm

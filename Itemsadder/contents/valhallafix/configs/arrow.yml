@@ -1,0 +1,300 @@
+info:
+  namespace: valhallafix
+items:
+  button_nextpage:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 1829130
+      textures:
+      - item/gui/button_nextpage
+  button_prevpage:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 1829131
+      textures:
+      - item/gui/button_prevpage
+  skilltree_nw:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511001
+      textures:
+      - item/gui/skilltree_nw
+  skilltree_n:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511002
+      textures:
+      - item/gui/skilltree_n
+  skilltree_ne:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511003
+      textures:
+      - item/gui/skilltree_ne
+  skilltree_e:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511004
+      textures:
+      - item/gui/skilltree_e
+  skilltree_se:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511005
+      textures:
+      - item/gui/skilltree_se
+  skilltree_s:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511006
+      textures:
+      - item/gui/skilltree_s
+  skilltree_sw:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511007
+      textures:
+      - item/gui/skilltree_sw
+  skilltree_w:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 3511008
+      textures:
+      - item/gui/skilltree_w
+  arrow_wood_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778210
+      textures:
+      - item/arrows/arrow_wood
+  arrow_wood_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778211
+      textures:
+      - item/arrows/arrow_wood
+  arrow_flint_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778212
+      textures:
+      - item/arrows/arrow_flint
+  arrow_flint_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778213
+      textures:
+      - item/arrows/arrow_flint
+  arrow_stone_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778214
+      textures:
+      - item/arrows/arrow_stone
+  arrow_stone_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778215
+      textures:
+      - item/arrows/arrow_stone
+  arrow_copper_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778216
+      textures:
+      - item/arrows/arrow_copper
+  arrow_copper_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778217
+      textures:
+      - item/arrows/arrow_copper
+  arrow_gold_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778218
+      textures:
+      - item/arrows/arrow_gold
+  arrow_gold_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778219
+      textures:
+      - item/arrows/arrow_gold
+  arrow_iron_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778220
+      textures:
+      - item/arrows/arrow_iron
+  arrow_iron_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778221
+      textures:
+      - item/arrows/arrow_iron
+  arrow_carbon_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778222
+      textures:
+      - item/arrows/arrow_carbon
+  arrow_carbon_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778223
+      textures:
+      - item/arrows/arrow_carbon
+  arrow_diamond_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778224
+      textures:
+      - item/arrows/arrow_diamond
+  arrow_diamond_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778225
+      textures:
+      - item/arrows/arrow_diamond
+  arrow_ender_1:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778226
+      textures:
+      - item/arrows/arrow_ender
+  arrow_ender_2:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778227
+      textures:
+      - item/arrows/arrow_ender
+  arrow_netherite:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778228
+      textures:
+      - item/arrows/arrow_netherite
+  arrow_incendiary:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778229
+      textures:
+      - item/arrows/arrow_incendiary
+  arrow_explosive:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778230
+      textures:
+      - item/arrows/arrow_explosive
+  arrow_lightning:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778231
+      textures:
+      - item/arrows/arrow_lightning
+  arrow_unholy:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ARROW
+      generate: true
+      model_id: 8778232
+      textures:
+      - item/arrows/arrow_unholy

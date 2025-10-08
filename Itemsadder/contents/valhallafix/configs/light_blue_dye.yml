@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  diamond_dust:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIGHT_BLUE_DYE
+      generate: true
+      model_id: 8892300
+      textures:
+      - item/materials/diamond_dust
+  diamond_shard:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIGHT_BLUE_DYE
+      generate: true
+      model_id: 8892301
+      textures:
+      - item/materials/diamond_shard

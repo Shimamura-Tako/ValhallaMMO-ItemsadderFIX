@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  netherite_shears:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SHEARS
+      generate: true
+      model_id: 8177280
+      textures:
+      - item/tools/netherite_shears

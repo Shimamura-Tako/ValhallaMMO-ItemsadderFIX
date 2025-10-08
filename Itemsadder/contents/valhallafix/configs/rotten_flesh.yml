@@ -1,0 +1,84 @@
+info:
+  namespace: valhallafix
+items:
+  icon_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829310
+      textures:
+      - item/gui/icon_ring
+  icon_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829311
+      textures:
+      - item/gui/icon_necklace
+  icon_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829312
+      textures:
+      - item/gui/icon_bracer
+  icon_belt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829313
+      textures:
+      - item/gui/icon_belt
+  icon_mask:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829314
+      textures:
+      - item/gui/icon_mask
+  icon_pin:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829315
+      textures:
+      - item/gui/icon_pin
+  icon_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829316
+      textures:
+      - item/gui/icon_circlet
+  icon_accessory:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829317
+      textures:
+      - item/gui/icon_accessory
+  icon_locked_trinket_slot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ROTTEN_FLESH
+      generate: true
+      model_id: 5829320
+      textures:
+      - item/gui/icon_locked_trinket_slot

@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  hot_gold_ingot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/hot_gold_ingot
+  gold_plate:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLD_INGOT
+      generate: true
+      model_id: 7782120
+      textures:
+      - item/materials/gold_plate

@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  ring_mold:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BRICK
+      generate: true
+      model_id: 9182610
+      textures:
+      - item/materials/ring_mold
+  necklace_amulet_mold:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BRICK
+      generate: true
+      model_id: 9182611
+      textures:
+      - item/materials/necklace_amulet_mold

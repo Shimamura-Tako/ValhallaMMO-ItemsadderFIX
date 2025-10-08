@@ -1,0 +1,723 @@
+info:
+  namespace: valhallafix
+items:
+  potion_belt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 1182920
+      textures:
+      - item/misc/potion_belt
+  rough_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7780900
+      textures:
+      - item/trinkets/rough_gold_ring
+  rough_gold_necklace_amulet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7780901
+      textures:
+      - item/trinkets/rough_gold_necklace_amulet
+  rough_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7780902
+      textures:
+      - item/trinkets/rough_gold_circlet
+  rough_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7780903
+      textures:
+      - item/trinkets/rough_gold_bracer
+  gold_necklace_amulet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7780910
+      textures:
+      - item/trinkets/gold_necklace_amulet
+  gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781100
+      textures:
+      - item/trinkets/gold_ring
+  ruby_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781101
+      textures:
+      - item/trinkets/ruby_gold_ring
+  emerald_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781102
+      textures:
+      - item/trinkets/emerald_gold_ring
+  opal_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781103
+      textures:
+      - item/trinkets/opal_gold_ring
+  sapphire_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781104
+      textures:
+      - item/trinkets/sapphire_gold_ring
+  topaz_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781105
+      textures:
+      - item/trinkets/topaz_gold_ring
+  peridot_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781106
+      textures:
+      - item/trinkets/peridot_gold_ring
+  diamond_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781107
+      textures:
+      - item/trinkets/diamond_gold_ring
+  amethyst_gold_ring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781108
+      textures:
+      - item/trinkets/amethyst_gold_ring
+  gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781200
+      textures:
+      - item/trinkets/gold_necklace
+  ruby_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781201
+      textures:
+      - item/trinkets/ruby_gold_necklace
+  emerald_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781202
+      textures:
+      - item/trinkets/emerald_gold_necklace
+  opal_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781203
+      textures:
+      - item/trinkets/opal_gold_necklace
+  sapphire_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781204
+      textures:
+      - item/trinkets/sapphire_gold_necklace
+  topaz_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781205
+      textures:
+      - item/trinkets/topaz_gold_necklace
+  peridot_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781206
+      textures:
+      - item/trinkets/peridot_gold_necklace
+  diamond_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781207
+      textures:
+      - item/trinkets/diamond_gold_necklace
+  amethyst_gold_necklace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781208
+      textures:
+      - item/trinkets/amethyst_gold_necklace
+  gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781300
+      textures:
+      - item/trinkets/gold_bracer
+  ruby_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781301
+      textures:
+      - item/trinkets/ruby_gold_bracer
+  emerald_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781302
+      textures:
+      - item/trinkets/emerald_gold_bracer
+  opal_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781303
+      textures:
+      - item/trinkets/opal_gold_bracer
+  sapphire_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781304
+      textures:
+      - item/trinkets/sapphire_gold_bracer
+  topaz_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781305
+      textures:
+      - item/trinkets/topaz_gold_bracer
+  peridot_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781306
+      textures:
+      - item/trinkets/peridot_gold_bracer
+  diamond_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781307
+      textures:
+      - item/trinkets/diamond_gold_bracer
+  amethyst_gold_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781308
+      textures:
+      - item/trinkets/amethyst_gold_bracer
+  gold_armring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781320
+      textures:
+      - item/trinkets/gold_armring
+  silver_armring:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781330
+      textures:
+      - item/trinkets/silver_armring
+  gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781400
+      textures:
+      - item/trinkets/gold_circlet
+  ruby_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781401
+      textures:
+      - item/trinkets/ruby_gold_circlet
+  emerald_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781402
+      textures:
+      - item/trinkets/emerald_gold_circlet
+  opal_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781403
+      textures:
+      - item/trinkets/opal_gold_circlet
+  sapphire_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781404
+      textures:
+      - item/trinkets/sapphire_gold_circlet
+  topaz_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781405
+      textures:
+      - item/trinkets/topaz_gold_circlet
+  peridot_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781406
+      textures:
+      - item/trinkets/peridot_gold_circlet
+  diamond_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781407
+      textures:
+      - item/trinkets/diamond_gold_circlet
+  amethyst_gold_circlet:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781408
+      textures:
+      - item/trinkets/amethyst_gold_circlet
+  trinket_armband_bezoar:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781500
+      textures:
+      - item/trinkets/trinket_armband_bezoar
+  trinket_armband_purity:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781501
+      textures:
+      - item/trinkets/trinket_armband_purity
+  trinket_armband_force:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781502
+      textures:
+      - item/trinkets/trinket_armband_force
+  trinket_armband_titans_glove:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781503
+      textures:
+      - item/trinkets/trinket_armband_titans_glove
+  trinket_armband_precision:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781504
+      textures:
+      - item/trinkets/trinket_armband_precision
+  trinket_armband_deathbringer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781505
+      textures:
+      - item/trinkets/trinket_armband_deathbringer
+  trinket_armband_regeneration:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781506
+      textures:
+      - item/trinkets/trinket_armband_regeneration
+  trinket_armband_rebirth:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781507
+      textures:
+      - item/trinkets/trinket_armband_rebirth
+  trinket_armband_bandaid:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781508
+      textures:
+      - item/trinkets/trinket_armband_bandaid
+  trinket_armband_transfusion:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781509
+      textures:
+      - item/trinkets/trinket_armband_transfusion
+  trinket_armband_armored_bracer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781510
+      textures:
+      - item/trinkets/trinket_armband_armored_bracer
+  trinket_armband_juggernaut:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781511
+      textures:
+      - item/trinkets/trinket_armband_juggernaut
+  trinket_necklace_cross:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781520
+      textures:
+      - item/trinkets/trinket_necklace_cross
+  trinket_necklace_divine_blessing:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781521
+      textures:
+      - item/trinkets/trinket_necklace_divine_blessing
+  trinket_necklace_magic_quiver:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781522
+      textures:
+      - item/trinkets/trinket_necklace_magic_quiver
+  trinket_necklace_artemis:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781523
+      textures:
+      - item/trinkets/trinket_necklace_artemis
+  trinket_necklace_mania:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781524
+      textures:
+      - item/trinkets/trinket_necklace_mania
+  trinket_necklace_furyforged:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781525
+      textures:
+      - item/trinkets/trinket_necklace_furyforged
+  trinket_necklace_avenger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781526
+      textures:
+      - item/trinkets/trinket_necklace_avenger
+  trinket_necklace_kratos:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781527
+      textures:
+      - item/trinkets/trinket_necklace_kratos
+  trinket_necklace_adrenaline:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781528
+      textures:
+      - item/trinkets/trinket_necklace_adrenaline
+  trinket_necklace_hermes:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781529
+      textures:
+      - item/trinkets/trinket_necklace_hermes
+  trinket_necklace_vigor:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781530
+      textures:
+      - item/trinkets/trinket_necklace_vigor
+  trinket_necklace_erinle:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781531
+      textures:
+      - item/trinkets/trinket_necklace_erinle
+  trinket_ring_deflection:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781540
+      textures:
+      - item/trinkets/trinket_ring_deflection
+  trinket_ring_athena:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781541
+      textures:
+      - item/trinkets/trinket_ring_athena
+  trinket_ring_obsidian:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781542
+      textures:
+      - item/trinkets/trinket_ring_obsidian
+  trinket_ring_narya:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781543
+      textures:
+      - item/trinkets/trinket_ring_narya
+  trinket_ring_protection:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781544
+      textures:
+      - item/trinkets/trinket_ring_protection
+  trinket_ring_primordial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781545
+      textures:
+      - item/trinkets/trinket_ring_primordial
+  trinket_ring_reach:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781546
+      textures:
+      - item/trinkets/trinket_ring_reach
+  trinket_ring_gungnir:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781547
+      textures:
+      - item/trinkets/trinket_ring_gungnir
+  trinket_ring_shattering:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781548
+      textures:
+      - item/trinkets/trinket_ring_shattering
+  trinket_ring_paladins_bane:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781549
+      textures:
+      - item/trinkets/trinket_ring_paladins_bane
+  trinket_ring_warding:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781550
+      textures:
+      - item/trinkets/trinket_ring_warding
+  trinket_ring_magnus:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ENCHANTED_BOOK
+      generate: true
+      model_id: 7781551
+      textures:
+      - item/trinkets/trinket_ring_magnus

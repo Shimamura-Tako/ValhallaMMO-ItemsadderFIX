@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  button_favouriting:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHER_STAR
+      generate: true
+      model_id: 1829130
+      textures:
+      - item/gui/button_favouriting

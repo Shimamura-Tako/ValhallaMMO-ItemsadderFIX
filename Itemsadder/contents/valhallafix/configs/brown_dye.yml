@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  leather_strip:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: BROWN_DYE
+      generate: true
+      model_id: 2273900
+      textures:
+      - item/materials/leather_strip

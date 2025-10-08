@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  choral_leather:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER
+      generate: true
+      model_id: 8892630
+      textures:
+      - item/materials/choral_leather

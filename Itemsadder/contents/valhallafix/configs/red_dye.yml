@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  button_loot_selection:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: RED_DYE
+      generate: true
+      model_id: 1829131
+      textures:
+      - item/gui/button_loot_selection

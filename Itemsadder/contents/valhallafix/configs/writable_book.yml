@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  button_recipe_options:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: WRITABLE_BOOK
+      generate: true
+      model_id: 1829131
+      textures:
+      - item/gui/button_recipe_options

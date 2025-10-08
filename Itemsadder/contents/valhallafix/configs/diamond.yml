@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  unstable_diamond:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/unstable_diamond

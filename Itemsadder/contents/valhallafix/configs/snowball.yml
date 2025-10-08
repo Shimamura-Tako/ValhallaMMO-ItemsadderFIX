@@ -1,0 +1,48 @@
+info:
+  namespace: valhallafix
+items:
+  empty_vial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SNOWBALL
+      generate: true
+      model_id: 9928310
+      textures:
+      - item/misc/empty_vial
+  antiheal_vial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SNOWBALL
+      generate: true
+      model_id: 9928311
+      textures:
+      - item/misc/antiheal_vial
+  poison_vial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SNOWBALL
+      generate: true
+      model_id: 9928312
+      textures:
+      - item/misc/poison_vial
+  hurt_vial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SNOWBALL
+      generate: true
+      model_id: 9928313
+      textures:
+      - item/misc/hurt_vial
+  holy_water_vial:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: SNOWBALL
+      generate: true
+      model_id: 9928314
+      textures:
+      - item/misc/holy_water_vial
