@@ -1,0 +1,204 @@
+info:
+  namespace: valhallafix
+items:
+  locked_direct_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172700
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_vertical
+  locked_direct_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172701
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_horizontal
+  locked_direct_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172702
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_corner_botlft
+  locked_direct_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172703
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_corner_toplft
+  locked_direct_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172704
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_corner_botrgt
+  locked_direct_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172705
+      generate: false
+      model_path: item/gui/connection_pieces/locked_direct_corner_toprgt
+  locked_continuous_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172706
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_vertical
+  locked_continuous_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172707
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_horizontal
+  locked_endpoint_horiz_right:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172708
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_horiz_right
+  locked_endpoint_horiz_left:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172709
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_horiz_left
+  locked_endpoint_verti_top:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172710
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_verti_top
+  locked_endpoint_verti_bottom:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172711
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_verti_bottom
+  locked_endpoint_corner_botlft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172712
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_botlft_side
+  locked_endpoint_corner_toplft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172713
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_toplft_side
+  locked_endpoint_corner_botrgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172714
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_botrgt_side
+  locked_endpoint_corner_toprgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172715
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_toprgt_side
+  locked_endpoint_corner_botlft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172716
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_botlft_ends
+  locked_endpoint_corner_toplft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172717
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_toplft_ends
+  locked_endpoint_corner_botrgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172718
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_botrgt_ends
+  locked_endpoint_corner_toprgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172719
+      generate: false
+      model_path: item/gui/connection_pieces/locked_endpoint_corner_toprgt_ends
+  locked_continuous_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172720
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_corner_botlft
+  locked_continuous_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172721
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_corner_toplft
+  locked_continuous_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172722
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_corner_botrgt
+  locked_continuous_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      model_id: 1172723
+      generate: false
+      model_path: item/gui/connection_pieces/locked_continuous_corner_toprgt
+  sharpening_stone:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GRAY_DYE
+      generate: true
+      model_id: 8892300
+      textures:
+      - item/materials/sharpening_stone

@@ -1,0 +1,204 @@
+info:
+  namespace: valhallafix
+items:
+  unlockable_direct_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172800
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_vertical
+  unlockable_direct_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172801
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_horizontal
+  unlockable_direct_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172802
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_corner_botlft
+  unlockable_direct_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172803
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_corner_toplft
+  unlockable_direct_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172804
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_corner_botrgt
+  unlockable_direct_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172805
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_direct_corner_toprgt
+  unlockable_continuous_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172806
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_vertical
+  unlockable_continuous_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172807
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_horizontal
+  unlockable_endpoint_horiz_right:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172808
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_horiz_right
+  unlockable_endpoint_horiz_left:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172809
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_horiz_left
+  unlockable_endpoint_verti_top:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172810
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_verti_top
+  unlockable_endpoint_verti_bottom:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172811
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_verti_bottom
+  unlockable_endpoint_corner_botlft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172812
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_botlft_side
+  unlockable_endpoint_corner_toplft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172813
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_toplft_side
+  unlockable_endpoint_corner_botrgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172814
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_botrgt_side
+  unlockable_endpoint_corner_toprgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172815
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_toprgt_side
+  unlockable_endpoint_corner_botlft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172816
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_botlft_ends
+  unlockable_endpoint_corner_toplft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172817
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_toplft_ends
+  unlockable_endpoint_corner_botrgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172818
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_botrgt_ends
+  unlockable_endpoint_corner_toprgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172819
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_endpoint_corner_toprgt_ends
+  unlockable_continuous_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172820
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_corner_botlft
+  unlockable_continuous_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172821
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_corner_toplft
+  unlockable_continuous_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172822
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_corner_botrgt
+  unlockable_continuous_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      model_id: 1172823
+      generate: false
+      model_path: item/gui/connection_pieces/unlockable_continuous_corner_toprgt
+  copper_nugget:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: ORANGE_DYE
+      generate: true
+      model_id: 8892301
+      textures:
+      - item/materials/copper_nugget

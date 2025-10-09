@@ -1,0 +1,839 @@
+info:
+  namespace: valhallafix
+items:
+  unlocked_direct_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172900
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_vertical
+  unlocked_direct_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172901
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_horizontal
+  unlocked_direct_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172902
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_corner_botlft
+  unlocked_direct_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172903
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_corner_toplft
+  unlocked_direct_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172904
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_corner_botrgt
+  unlocked_direct_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172905
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_direct_corner_toprgt
+  unlocked_continuous_vertical:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172906
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_vertical
+  unlocked_continuous_horizontal:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172907
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_horizontal
+  unlocked_endpoint_horiz_right:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172908
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_horiz_right
+  unlocked_endpoint_horiz_left:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172909
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_horiz_left
+  unlocked_endpoint_verti_top:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172910
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_verti_top
+  unlocked_endpoint_verti_bottom:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172911
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_verti_bottom
+  unlocked_endpoint_corner_botlft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172912
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_botlft_side
+  unlocked_endpoint_corner_toplft_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172913
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_toplft_side
+  unlocked_endpoint_corner_botrgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172914
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_botrgt_side
+  unlocked_endpoint_corner_toprgt_side:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172915
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_toprgt_side
+  unlocked_endpoint_corner_botlft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172916
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_botlft_ends
+  unlocked_endpoint_corner_toplft_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172917
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_toplft_ends
+  unlocked_endpoint_corner_botrgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172918
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_botrgt_ends
+  unlocked_endpoint_corner_toprgt_ends:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172919
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_endpoint_corner_toprgt_ends
+  unlocked_continuous_corner_botlft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172920
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_corner_botlft
+  unlocked_continuous_corner_toplft:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172921
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_corner_toplft
+  unlocked_continuous_corner_botrgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172922
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_corner_botrgt
+  unlocked_continuous_corner_toprgt:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1172923
+      generate: false
+      model_path: item/gui/connection_pieces/unlocked_continuous_corner_toprgt
+  button_newrecipe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1829130
+      generate: false
+      model_path: item/gui/button_newrecipe
+  button_loot_selection_active:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 1829131
+      generate: false
+      model_path: item/gui/button_loot_selection_active
+  tutor_lotus:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192780
+      textures:
+      - item/materials/tutor_lotus
+  steelblossom:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192781
+      textures:
+      - item/materials/steelblossom
+  shimmerleaf:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192782
+      textures:
+      - item/materials/shimmerleaf
+  goldroot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192783
+      textures:
+      - item/materials/goldroot
+  pollen_stalks:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192784
+      textures:
+      - item/materials/pollen_stalks
+  knightsreed:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192785
+      textures:
+      - item/materials/knightsreed
+  burnt_bark:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192786
+      textures:
+      - item/materials/burnt_bark
+  ambrosial_nectar:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192787
+      textures:
+      - item/materials/ambrosial_nectar
+  bustling_fungus:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192788
+      textures:
+      - item/materials/bustling_fungus
+  calcified_seed:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192789
+      textures:
+      - item/materials/calcified_seed
+  withered_filament:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192790
+      textures:
+      - item/materials/withered_filament
+  noxious_spores:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      generate: true
+      model_id: 9192791
+      textures:
+      - item/materials/noxious_spores
+  service_ordering_confirm:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199199
+      generate: false
+      model_path: item/gui/merchants/services/service_ordering_confirm
+  empty:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199200
+      generate: false
+      model_path: item/gui/merchants/empty
+  service_trading_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199201
+      generate: false
+      model_path: item/gui/merchants/services/service_trading_big
+  service_trading_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199202
+      generate: false
+      model_path: item/gui/merchants/services/service_trading_medium
+  service_trading_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199203
+      generate: false
+      model_path: item/gui/merchants/services/service_trading_small
+  service_ordering_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199204
+      generate: false
+      model_path: item/gui/merchants/services/service_ordering_big
+  service_ordering_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199205
+      generate: false
+      model_path: item/gui/merchants/services/service_ordering_medium
+  service_ordering_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199206
+      generate: false
+      model_path: item/gui/merchants/services/service_ordering_small
+  service_training_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199207
+      generate: false
+      model_path: item/gui/merchants/services/service_training_big
+  service_training_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199208
+      generate: false
+      model_path: item/gui/merchants/services/service_training_medium
+  service_training_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199209
+      generate: false
+      model_path: item/gui/merchants/services/service_training_small
+  service_upgrading_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199210
+      generate: false
+      model_path: item/gui/merchants/services/service_upgrading_big
+  service_upgrading_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199211
+      generate: false
+      model_path: item/gui/merchants/services/service_upgrading_medium
+  service_upgrading_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199212
+      generate: false
+      model_path: item/gui/merchants/services/service_upgrading_small
+  service_learning_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199213
+      generate: false
+      model_path: item/gui/merchants/services/service_learning_big
+  service_learning_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199214
+      generate: false
+      model_path: item/gui/merchants/services/service_learning_medium
+  service_learning_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199215
+      generate: false
+      model_path: item/gui/merchants/services/service_learning_small
+  service_investing_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199216
+      generate: false
+      model_path: item/gui/merchants/services/service_investing_big
+  service_investing_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199217
+      generate: false
+      model_path: item/gui/merchants/services/service_investing_medium
+  service_investing_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199218
+      generate: false
+      model_path: item/gui/merchants/services/service_investing_small
+  service_training_skill_smithing_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199500
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_smithing_big
+  service_training_skill_smithing_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199501
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_smithing_medium
+  service_training_skill_smithing_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199502
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_smithing_small
+  service_training_skill_trading_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199503
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_trading_big
+  service_training_skill_trading_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199504
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_trading_medium
+  service_training_skill_trading_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199505
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_trading_small
+  service_training_skill_woodcutting_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199506
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_woodcutting_big
+  service_training_skill_woodcutting_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199507
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_woodcutting_medium
+  service_training_skill_woodcutting_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199508
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_woodcutting_small
+  service_training_skill_alchemy_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199509
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_alchemy_big
+  service_training_skill_alchemy_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199510
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_alchemy_medium
+  service_training_skill_alchemy_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199511
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_alchemy_small
+  service_training_skill_archery_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199512
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_archery_big
+  service_training_skill_archery_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199513
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_archery_medium
+  service_training_skill_archery_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199514
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_archery_small
+  service_training_skill_digging_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199515
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_digging_big
+  service_training_skill_digging_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199516
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_digging_medium
+  service_training_skill_digging_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199517
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_digging_small
+  service_training_skill_enchanting_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199518
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_enchanting_big
+  service_training_skill_enchanting_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199519
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_enchanting_medium
+  service_training_skill_enchanting_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199520
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_enchanting_small
+  service_training_skill_farming_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199521
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_farming_big
+  service_training_skill_farming_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199522
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_farming_medium
+  service_training_skill_farming_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199523
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_farming_small
+  service_training_skill_fishing_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199524
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_fishing_big
+  service_training_skill_fishing_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199525
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_fishing_medium
+  service_training_skill_fishing_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199526
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_fishing_small
+  service_training_skill_heavy_armor_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199527
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_armor_big
+  service_training_skill_heavy_armor_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199528
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_armor_medium
+  service_training_skill_heavy_armor_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199529
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_armor_small
+  service_training_skill_heavy_weapons_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199530
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_weapons_big
+  service_training_skill_heavy_weapons_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199531
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_weapons_medium
+  service_training_skill_heavy_weapons_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199532
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_heavy_weapons_small
+  service_training_skill_light_armor_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199533
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_armor_big
+  service_training_skill_light_armor_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199534
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_armor_medium
+  service_training_skill_light_armor_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199535
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_armor_small
+  service_training_skill_light_weapons_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199536
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_weapons_big
+  service_training_skill_light_weapons_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199537
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_weapons_medium
+  service_training_skill_light_weapons_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199538
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_light_weapons_small
+  service_training_skill_martial_arts_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199539
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_martial_arts_big
+  service_training_skill_martial_arts_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199540
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_martial_arts_medium
+  service_training_skill_martial_arts_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199541
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_martial_arts_small
+  service_training_skill_mining_big:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199542
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_mining_big
+  service_training_skill_mining_medium:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199543
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_mining_medium
+  service_training_skill_mining_small:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LIME_DYE
+      model_id: 9199544
+      generate: false
+      model_path: item/gui/merchants/services/service_training_skill_mining_small
