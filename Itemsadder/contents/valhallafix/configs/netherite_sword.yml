@@ -1,0 +1,123 @@
+info:
+  namespace: valhallafix
+items:
+  netherite_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981820
+      generate: false
+      model_path: item/weapons/netherite_dagger
+  netherite_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981821
+      generate: false
+      model_path: item/weapons/netherite_mace
+  netherite_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981822
+      generate: false
+      model_path: item/weapons/netherite_rapier
+  netherite_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981825
+      generate: false
+      model_path: item/weapons/netherite_warhammer
+  netherite_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981826
+      generate: false
+      model_path: item/weapons/netherite_spear
+  netherite_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981827
+      generate: false
+      model_path: item/weapons/netherite_greataxe
+  netherite_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981840
+      generate: false
+      model_path: item/weapons/netherite_knuckles
+  royal_netherite_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981920
+      generate: false
+      model_path: item/weapons/royal_netherite_dagger
+  royal_netherite_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981921
+      generate: false
+      model_path: item/weapons/royal_netherite_mace
+  royal_netherite_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981922
+      generate: false
+      model_path: item/weapons/royal_netherite_rapier
+  royal_netherite_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981925
+      generate: false
+      model_path: item/weapons/royal_netherite_warhammer
+  royal_netherite_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981926
+      generate: false
+      model_path: item/weapons/royal_netherite_spear
+  royal_netherite_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981927
+      generate: false
+      model_path: item/weapons/royal_netherite_greataxe
+  royal_netherite_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981940
+      generate: false
+      model_path: item/weapons/royal_netherite_knuckles
+  royal_netherite_sword:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_SWORD
+      model_id: 1981941
+      generate: false
+      model_path: item/weapons/royal_netherite_sword

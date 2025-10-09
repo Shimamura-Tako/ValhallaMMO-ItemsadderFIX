@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  hot_netherite_ingot:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: NETHERITE_INGOT
+      generate: true
+      model_id: 9827320
+      textures:
+      - item/materials/hot_netherite_ingot

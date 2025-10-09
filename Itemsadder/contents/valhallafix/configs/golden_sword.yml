@@ -1,0 +1,59 @@
+info:
+  namespace: valhallafix
+items:
+  golden_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981820
+      generate: false
+      model_path: item/weapons/golden_dagger
+  golden_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981821
+      generate: false
+      model_path: item/weapons/golden_mace
+  golden_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981822
+      generate: false
+      model_path: item/weapons/golden_rapier
+  golden_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981825
+      generate: false
+      model_path: item/weapons/golden_warhammer
+  golden_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981826
+      generate: false
+      model_path: item/weapons/golden_spear
+  golden_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981827
+      generate: false
+      model_path: item/weapons/golden_greataxe
+  golden_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: GOLDEN_SWORD
+      model_id: 1981840
+      generate: false
+      model_path: item/weapons/golden_knuckles

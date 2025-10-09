@@ -1,0 +1,11 @@
+info:
+  namespace: valhallafix
+items:
+  royal_diamond_hoe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_HOE
+      model_id: 1981900
+      generate: false
+      model_path: item/tools/royal_diamond_hoe

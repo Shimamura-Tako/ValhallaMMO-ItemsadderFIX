@@ -1,0 +1,123 @@
+info:
+  namespace: valhallafix
+items:
+  diamond_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981820
+      generate: false
+      model_path: item/weapons/diamond_dagger
+  diamond_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981821
+      generate: false
+      model_path: item/weapons/diamond_mace
+  diamond_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981822
+      generate: false
+      model_path: item/weapons/diamond_rapier
+  diamond_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981825
+      generate: false
+      model_path: item/weapons/diamond_warhammer
+  diamond_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981826
+      generate: false
+      model_path: item/weapons/diamond_spear
+  diamond_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981827
+      generate: false
+      model_path: item/weapons/diamond_greataxe
+  diamond_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981840
+      generate: false
+      model_path: item/weapons/diamond_knuckles
+  royal_diamond_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981920
+      generate: false
+      model_path: item/weapons/royal_diamond_dagger
+  royal_diamond_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981921
+      generate: false
+      model_path: item/weapons/royal_diamond_mace
+  royal_diamond_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981922
+      generate: false
+      model_path: item/weapons/royal_diamond_rapier
+  royal_diamond_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981925
+      generate: false
+      model_path: item/weapons/royal_diamond_warhammer
+  royal_diamond_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981926
+      generate: false
+      model_path: item/weapons/royal_diamond_spear
+  royal_diamond_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981927
+      generate: false
+      model_path: item/weapons/royal_diamond_greataxe
+  royal_diamond_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981940
+      generate: false
+      model_path: item/weapons/royal_diamond_knuckles
+  royal_diamond_sword:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: DIAMOND_SWORD
+      model_id: 1981941
+      generate: false
+      model_path: item/weapons/royal_diamond_sword

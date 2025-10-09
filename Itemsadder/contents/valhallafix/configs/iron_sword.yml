@@ -1,0 +1,139 @@
+info:
+  namespace: valhallafix
+items:
+  cleaver:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981819
+      generate: false
+      model_path: item/weapons/cleaver
+  iron_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981820
+      generate: false
+      model_path: item/weapons/iron_dagger
+  iron_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981821
+      generate: false
+      model_path: item/weapons/iron_mace
+  iron_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981822
+      generate: false
+      model_path: item/weapons/iron_rapier
+  iron_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981825
+      generate: false
+      model_path: item/weapons/iron_warhammer
+  iron_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981826
+      generate: false
+      model_path: item/weapons/iron_spear
+  iron_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981827
+      generate: false
+      model_path: item/weapons/iron_greataxe
+  iron_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 1981840
+      generate: false
+      model_path: item/weapons/iron_knuckles
+  skillicon_lightweapons:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 3510001
+      generate: false
+      model_path: item/gui/skillicon_lightweapons
+  copper_sword:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918290
+      generate: false
+      model_path: item/weapons/copper_sword
+  copper_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918390
+      generate: false
+      model_path: item/weapons/copper_dagger
+  copper_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918391
+      generate: false
+      model_path: item/weapons/copper_mace
+  copper_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918392
+      generate: false
+      model_path: item/weapons/copper_rapier
+  copper_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918395
+      generate: false
+      model_path: item/weapons/copper_warhammer
+  copper_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918396
+      generate: false
+      model_path: item/weapons/copper_spear
+  copper_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918397
+      generate: false
+      model_path: item/weapons/copper_greataxe
+  copper_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_SWORD
+      model_id: 9918397
+      generate: false
+      model_path: item/weapons/copper_knuckles

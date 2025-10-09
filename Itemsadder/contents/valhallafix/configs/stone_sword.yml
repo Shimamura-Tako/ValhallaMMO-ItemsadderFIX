@@ -1,0 +1,59 @@
+info:
+  namespace: valhallafix
+items:
+  stone_dagger:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981820
+      generate: false
+      model_path: item/weapons/stone_dagger
+  stone_mace:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981821
+      generate: false
+      model_path: item/weapons/stone_mace
+  stone_rapier:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981822
+      generate: false
+      model_path: item/weapons/stone_rapier
+  stone_warhammer:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981825
+      generate: false
+      model_path: item/weapons/stone_warhammer
+  stone_spear:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981826
+      generate: false
+      model_path: item/weapons/stone_spear
+  stone_greataxe:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981827
+      generate: false
+      model_path: item/weapons/stone_greataxe
+  stone_knuckles:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: STONE_SWORD
+      model_id: 1981840
+      generate: false
+      model_path: item/weapons/stone_knuckles
