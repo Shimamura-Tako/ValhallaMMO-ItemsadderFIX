@@ -15,12 +15,15 @@ This magical extension allows your ValhallaMMO resource pack to no longer confli
 
 3. That's it! Now you can freely create any items without worrying about texture conflicts with ValhallaMMO
 
-## Why am I having issues using it on versions below 1.21.4?
-This extension was initially created for my own server, which runs on version 1.21.8.
+## I'm encountering an issue!
+Please submit an issue in this repository instead of going to ValhallaMMO's repository, because this extension was created by me, not by Athlaeos.
+
+## Why am I having issues using it on versions below 1.21.4 (or equal to 1.21.9)?
+This extension was initially created for my own server, which runs on version 1.21.8, which runs on version 1.21.8 with ValhallaMMO version 1.6.4.
+
+Therefore, you might encounter some minor problems when using it on older or newer server/plugin versions.
 
 However, if you really need it for lower versions, try using DeepSeek, ChatGPT, or other AI tools to help you create a compatible version for lower Minecraft versions.
-
-Alternatively, the ValhallaMMO author could officially support compatibility with IA and ValhallaMMO (though this is unlikely).
 
 ## Future Plans
 - Compatibility with bow and crossbow
