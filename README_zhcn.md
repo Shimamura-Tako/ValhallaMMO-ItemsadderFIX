@@ -11,7 +11,7 @@
 
 1. 将`valhallafix`文件夹放置在contents目录下，执行`/iareload`和`/iazip`并加载`generated.zip`资源包
 
-2. 修改`ValhallaMMO`资源包，删除压缩包中`assets/minecraft/items`目录下的所有（现在暂时不是，不要删除工具、武器和灰色/黄绿色染料）文件，并将其加载在游戏中，置于`generated.zip`之上
+2. 修改`ValhallaMMO`资源包，删除压缩包中`assets/minecraft/items`目录下的所有（现在暂时不是，不要删除灰色/黄绿色/橙色染料）文件，并将其加载在游戏中，置于`generated.zip`之上
 
 3. 完事！现在你可以尽情地创建任何物品，而无需担心它会与ValhallaMMO纹理冲突
 
@@ -23,5 +23,4 @@
 又或者，ValhallaMMO的作者亲自来兼容IA和ValhallaMMO（不太可能）
 
 ## 将来的计划
-- 兼容所有材料的工具和武器
-- 兼容灰色/黄绿色染料
+- 兼容灰色/黄绿色/橙色染料
