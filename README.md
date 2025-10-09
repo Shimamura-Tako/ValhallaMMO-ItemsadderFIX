@@ -11,7 +11,7 @@ This magical extension allows your ValhallaMMO resource pack to no longer confli
 
 1. Place the `valhallafix` folder in the `contents` directory, execute `/iareload` and `/iazip`, then load the `generated.zip` resource pack
 
-2. Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items` directory (currently not all files - do not delete bow and crossbow files for now), then load it in the game above `generated.zip`
+2. Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items` directory (currently not all files - do not delete `bow.json` and `crossbow.json` for now), then load it in the game above `generated.zip`
 
 3. That's it! Now you can freely create any items without worrying about texture conflicts with ValhallaMMO
 
@@ -19,7 +19,7 @@ This magical extension allows your ValhallaMMO resource pack to no longer confli
 Please submit an issue in this repository instead of going to ValhallaMMO's repository, because this extension was created by me, not by Athlaeos.
 
 ## Why am I having issues using it on versions below 1.21.4 (or equal to 1.21.9)?
-This extension was initially created for my own server, which runs on version 1.21.8, which runs on version 1.21.8 with ValhallaMMO version 1.6.4.
+This extension was initially created for my own server, which runs on version 1.21.8 with ValhallaMMO version 1.6.4.
 
 Therefore, you might encounter some minor problems when using it on older or newer server/plugin versions.
 
