@@ -27,3 +27,5 @@ However, if you really need it for lower versions, try using DeepSeek, ChatGPT, 
 
 ## Future Plans
 - Compatibility with bow and crossbow
+- Replace all `textures` methods with `model_path` methods
+- And more...
