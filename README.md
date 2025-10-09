@@ -11,7 +11,7 @@ This magical extension allows your ValhallaMMO resource pack to no longer confli
 
 1. Place the `valhallafix` folder in the `contents` directory, execute `/iareload` and `/iazip`, then load the `generated.zip` resource pack
 
-2. Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items` directory (currently not all files - do not delete gray/lime/orange dye files for now), then load it in the game above `generated.zip`
+2. Modify the ValhallaMMO resource pack by deleting all files in the `assets/minecraft/items` directory (currently not all files - do not delete bow and crossbow files for now), then load it in the game above `generated.zip`
 
 3. That's it! Now you can freely create any items without worrying about texture conflicts with ValhallaMMO
 
@@ -23,4 +23,4 @@ However, if you really need it for lower versions, try using DeepSeek, ChatGPT, 
 Alternatively, the ValhallaMMO author could officially support compatibility with IA and ValhallaMMO (though this is unlikely).
 
 ## Future Plans
-- Compatibility with gray/lime/orange dye
+- Compatibility with bow and crossbow
