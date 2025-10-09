@@ -23,5 +23,5 @@ However, if you really need it for lower versions, try using DeepSeek, ChatGPT, 
 Alternatively, the ValhallaMMO author could officially support compatibility with IA and ValhallaMMO (though this is unlikely).
 
 ## Future Plans
-- Compatibility with all material equipment, tools, and weapons
+- Compatibility with all material tools and weapons
 - Compatibility with gray/lime dye
