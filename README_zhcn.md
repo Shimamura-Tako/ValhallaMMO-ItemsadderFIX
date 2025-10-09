@@ -11,9 +11,11 @@
 
 1. 将`valhallafix`文件夹放置在contents目录下，执行`/iareload`和`/iazip`并加载`generated.zip`资源包
 
-2. 修改`ValhallaMMO`资源包，删除压缩包中`assets/minecraft/items`目录下的所有（现在暂时不是，不要删除弓和弩）文件，并将其加载在游戏中，置于`generated.zip`之上
+2. 修改`ValhallaMMO`资源包，删除压缩包中`assets/minecraft/items`目录下的所有（现在暂时不是，不要删除`bow.json`和`crossbow.json`）文件，并将其加载在游戏中，置于`generated.zip`之上
 
 3. 完事！现在你可以尽情地创建任何物品，而无需担心它会与ValhallaMMO纹理冲突
+
+4. 建议使用BungeeResourcepacks或其他插件将资源包按正确的顺序发送给玩家
 
 ## 我遇到了问题！
 请在此储存库下提交issue，而不是跑去ValhallaMMO的储存库，因为这个扩展是由我创建的，而不是Athlaeos。
