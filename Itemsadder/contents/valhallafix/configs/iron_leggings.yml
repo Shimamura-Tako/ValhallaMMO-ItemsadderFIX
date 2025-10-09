@@ -1,0 +1,12 @@
+info:
+  namespace: valhallafix
+items:
+  copper_leggings:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_LEGGINGS
+      generate: true
+      model_id: 9918290
+      textures:
+      - item/armor/copper_leggings

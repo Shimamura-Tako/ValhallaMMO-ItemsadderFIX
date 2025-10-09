@@ -1,0 +1,30 @@
+info:
+  namespace: valhallafix
+items:
+  skillicon_lightarmor:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: true
+      model_id: 3510001
+      textures:
+      - item/gui/skillicon_lightarmor
+  assassin_chestplate:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: true
+      model_id: 9918291
+      textures:
+      - item/armor/assassin_chestplate
+  turtle_chestplate:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER_CHESTPLATE
+      generate: true
+      model_id: 9918294
+      textures:
+      - item/armor/turtle_chestplate

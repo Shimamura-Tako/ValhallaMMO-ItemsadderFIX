@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  skillicon_heavyarmor:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_CHESTPLATE
+      generate: true
+      model_id: 3510001
+      textures:
+      - item/gui/skillicon_heavyarmor
+  copper_chestplate:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: IRON_CHESTPLATE
+      generate: true
+      model_id: 9918290
+      textures:
+      - item/armor/copper_chestplate

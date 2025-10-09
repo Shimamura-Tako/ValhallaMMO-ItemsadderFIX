@@ -1,0 +1,21 @@
+info:
+  namespace: valhallafix
+items:
+  assassin_boots:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER_BOOTS
+      generate: true
+      model_id: 9918291
+      textures:
+      - item/armor/assassin_boots
+  turtle_boots:
+    display_name: valhallafix
+    permission: valhallafix
+    resource:
+      material: LEATHER_BOOTS
+      generate: true
+      model_id: 9918294
+      textures:
+      - item/armor/turtle_boots
