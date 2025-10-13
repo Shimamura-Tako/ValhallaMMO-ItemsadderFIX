@@ -6,6 +6,10 @@ Make your ValhallaMMO resource pack no longer conflict with ItemsAdder.
 ## What is this?
 This magical extension allows your ValhallaMMO resource pack to no longer conflict with your ItemsAdder item textures, and also works with other resource packs that use IA (such as the Slimefun resource pack).
 
+Compatible with ValhallaTrinkets, already tested.
+
+I haven't verified whether this extension is compatible with ValhallaMMO Premium yet, and won't be able to until someone tests it with Premium or I obtain a copy of the Premium jarfile
+
 ## How to use?
 0. Download this repository and extract it on your server host
 
@@ -20,8 +24,8 @@ This magical extension allows your ValhallaMMO resource pack to no longer confli
 ## I'm encountering an issue!
 Please submit an issue in this repository instead of going to ValhallaMMO's repository, because this extension was created by me, not by Athlaeos.
 
-## Why am I having issues using it on versions below 1.21.4 (or equal to 1.21.9)?
-This extension was initially created for my own server, which runs on version 1.21.8 with ValhallaMMO version 1.6.4.
+## Why am I having issues using it on versions below 1.21.4?
+This extension was initially created for my own server, which runs on version 1.21.8 with ValhallaMMO version 1.6.5.
 
 Therefore, you might encounter some minor problems when using it on older or newer server/plugin versions.
 
