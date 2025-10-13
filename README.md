@@ -31,6 +31,8 @@ Therefore, you might encounter some minor problems when using it on older or new
 
 However, if you really need it for lower versions, try using DeepSeek, ChatGPT, or other AI tools to help you create a compatible version for lower Minecraft versions.
 
+*If Athlaeos provides me with a copy of Valhalla Premium to encourage me to continue development, I will dedicate time in the future to personally test and ensure compatibility with older Minecraft server versions.*
+
 ## Future Plans
 - Compatibility with bow and crossbow
 - Replace all `textures` methods with `model_path` methods
